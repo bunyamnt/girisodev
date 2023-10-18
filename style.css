@@ -1,0 +1,85 @@
+
+body{
+    font-family: 'Fjalla One', sans-serif;
+    
+    
+}
+.kapsayici{
+    display: flex;
+    border: 0px solid black;
+    width: 700px;
+    height: 900px;
+    margin: auto;
+    margin-top: 100px;
+}
+.resim{
+    display: flex;
+    width: 200px;
+    height: 600px;
+}
+.inp{
+    display: flex;
+    width: 200px;
+    height: 50px;
+    margin-top: 0px;
+    margin-left: 230px;
+    
+
+}
+.form{
+    display: block;
+    border: 1px solid #ccc;
+    width: 250px;
+    height: 550px;
+    padding: 10px;
+    
+}
+.btnn{
+    background-color: rgb(3, 78, 216);
+    height: 40px;
+    width: 200px;
+    font-size: large;
+    color: rgb(255, 255, 255);
+    border-radius: 10px;
+    border: hidden;
+    font-family: 'Fjalla One', sans-serif;
+    
+}
+.hizmet{
+    font-family: 'Fjalla One', sans-serif;
+    text-decoration: none;
+    font-size: x-small;
+}
+.dahafazla{
+    text-decoration: none;
+    font-size: x-small;
+    color: blue ;
+}
+.plp{
+    border: 1px solid #ccc;
+}
+.btnn:hover{
+    background-color: blue;
+}
+.atiket{
+    display: grid;
+    margin-top: 1000px;
+}
+.span{
+    margin: auto;
+}
+.resinbir{
+    width: 140px;
+    height: 50px;
+    margin-top: 100px;
+}
+.resiniki{
+    width: 160px;
+    height: 50px;
+    margin-left: 10px;
+}
+.resinler{
+    width: 500px;
+    height: 400px;
+    
+}
